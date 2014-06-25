@@ -1,7 +1,7 @@
 # esmc
 
 `esmc` is a wrapper for
-[elasticsearch](https://github.com/peterbourgon/elasticsearch).
+[elasticsearch](https://github.com/maxjakob/elasticsearch).
 
 The primary function of `esmc` is to provide support for interacting with
 multiple elasticsearch clusters, and secondarily to provide per-request

@@ -2,8 +2,8 @@ package esmc_test
 
 import (
 	"encoding/json"
-	"github.com/bernerdschaefer/esmc"
-	es "github.com/peterbourgon/elasticsearch"
+	es "github.com/maxjakob/elasticsearch"
+	"github.com/maxjakob/esmc"
 	"reflect"
 	"testing"
 	"time"

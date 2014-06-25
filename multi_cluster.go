@@ -1,7 +1,7 @@
 package esmc
 
 import (
-	es "github.com/peterbourgon/elasticsearch"
+	es "github.com/maxjakob/elasticsearch"
 	"log"
 	"strings"
 )

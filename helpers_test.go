@@ -2,7 +2,7 @@ package esmc_test
 
 import (
 	"encoding/json"
-	"github.com/bernerdschaefer/esmc"
+	"github.com/maxjakob/esmc"
 	"net/http"
 	"net/http/httptest"
 	"net/url"
